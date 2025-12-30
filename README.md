@@ -1,1 +1,1 @@
-# atcoder-practic
+# atcoder-practice
